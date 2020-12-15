@@ -47,8 +47,33 @@ def normalpd():
     #output = json.dumps(result, default=set_default)
     return str(count)
 
-@app.route('/test')
-def test():
+@app.route('/test_modin')
+def test_modin():
+    #q=request.args['q'] 
+
+   
+
+    ### Read in the data with Modin    
+
+    s = time.time()
+    df = pd.read_csv("GL_Data.csv")
+    e = time.time()
+    print("Modin Loading Time = {}".format(e-s))    
+
+
+    df = pd.read_csv("GL_Data.csv")
+    s = time.time()
+    df = pd.concat([df for _ in range(5)])
+    e = time.time()
+    print("Modin Concat Time = {}".format(e-s))
+
+
+
+    count=len(df)
+    return str(count)
+
+@app.route('/test_normal')
+def test_normal():
     #q=request.args['q'] 
 
     ### Read in the data with Pandas   
@@ -58,25 +83,13 @@ def test():
     e = time.time()
     print("Pandas Loading Time = {}".format(e-s))
 
-    ### Read in the data with Modin    
-
-    s = time.time()
-    df = pd.read_csv("GL_Data.csv")
-    e = time.time()
-    print("Modin Loading Time = {}".format(e-s))
+   
 
     df = pdn.read_csv("GL_Data.csv")
     s = time.time()
     df = pdn.concat([df for _ in range(5)])
     e = time.time()
-    print("Pandas Concat Time = {}".format(e-s))
-
-
-    df = pd.read_csv("GL_Data.csv")
-    s = time.time()
-    df = pd.concat([df for _ in range(5)])
-    e = time.time()
-    print("Modin Concat Time = {}".format(e-s))
+    print("Pandas Concat Time = {}".format(e-s))  
 
 
 

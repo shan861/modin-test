@@ -100,7 +100,7 @@ def test_normal():
 @app.route('/largefile')
 def largefile():
      df = pd.read_csv("GL_Data.csv")  
-     df = mpd.concat([df] * 15)
+     df = pd.concat([df] * 15)
      df.to_csv('big_csv.csv')
 
      count=len(df)

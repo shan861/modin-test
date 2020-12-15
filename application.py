@@ -107,7 +107,7 @@ def largefile():
      return str(count)
 
 
-@app.route('/large_modin')
+@app.route('/largefile_modin')
 def large_modin():
     #q=request.args['q'] 
 
@@ -132,7 +132,7 @@ def large_modin():
     count=len(df)
     return str(count)
 
-@app.route('/large_normal')
+@app.route('/largefile_pandas')
 def large_normal():
     #q=request.args['q'] 
 

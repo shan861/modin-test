@@ -1,0 +1,918 @@
+description,target
+Goodwill ,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Goodwill-->
+Computer Software,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Acc. Depreciation-Computer Software,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Computer Software - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Acc. Depreciation-Computer Software Adj,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+S4 Hana migration Asset. Account,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+S4 Hana migration Acc.dep Account,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Other Intangibles,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Intangible assets,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOth-->BS_IntangACS-->
+Intangible Asset under- SCA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangEE-->
+Intangible Asset under development - SCA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOthe-->
+Intangible assets under Development,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Intang-->BS_IntangOthe-->
+Freehold Land,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Land-->
+Freehold Land-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Land-->
+Acc. Dep  - Freehold Land,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Land-->
+Buildings - Factory,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Acc. Depreciation-Factory Building,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Buildings - Factory-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Acc.Dep-Fact Build A,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Buildings -Office - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Accumulated Depreciation-Office Buildin,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Buildings - Office,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Accumulated Depreciation-Office Buildin,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Buildings -Office - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Accumulated Depreciation-Office Buildin,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_Building-->
+Investment Property,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_LandBuilding-->BS_PPE_InvestProp-->
+Capital Work In Progress,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Capital Work In Progress -Adjustments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Capital-work-in progress -Gross block?S,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Capital Work In Progress-Plant & Machinery,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Capital work in progress ,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Provision for impairment of Assets,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Pre- Operative Expenses,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_CIPNet-->BS_PPE_CIP-->
+Plant & Machinery,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation-Plant&Machiner,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Plant & Machinery- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation-Plant&Mach -Ad,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Property, plant and equipment",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Property, plant and equipment-Accumulated Dep",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Roads, Water Supply, Culverts,Greenbelt",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Roads,Water Supply,Culverts,Greenbelts-",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Acc. Depreciation-roads, Water supply",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+"Acc. Depreciation-roads, Water supply A",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Landfill,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Landfill-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation - Landfill,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation- Landfill - Ad,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Furniture & Fixtures,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Furniture & Fixtures- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Furniture&Fixtures,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation- Furniture &Fixtures-,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Vehicles (Motor Buses and Lorries),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Vehicles (Motor Buses and Lorries)- Adj,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Dep Vehicles (Motor Bus & Lorries),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Dep Vehicles (Motor Bus & Lorries),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Vehicles- Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Vehicles- Others- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation - Vehicles,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+LAB EQUIPMENT,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Lab Equipment- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation - Lab Equipments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation - Lab Equipmen,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Office Equipments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Office Equipments- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Office Equipments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Office Equipment-Adju,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Computer  Equipments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Computer  Equipments- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Computer Equipments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Computer Equipment-Ad,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Gross Block - Containers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Containers - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Dep - Containers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Containers Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Gross Block - Solar Pond,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Solar Pond-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Dep  - Solar Pond,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Solar Pond Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Gross Block - Green Belt,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Green Belt - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Dep  - Green Belt,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Acc. Depreciation-Green Belt Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Leasehold Land,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Leasehold Land - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation-Leasehold Land,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Accumulated Depreciation-Leasehold Land,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+SCA adjustment entry ? FA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+SCA Ind AS ? FA Acc.Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_PPENet-->BS_PPE_PE-->BS_PPE_PME-->
+Investments In Subsidiaries(IC)-UnQuote-Adjus,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments others Unquoted-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Invest.Opt.Covertable Debentures Subsi.,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments Pref Shares Subsidiaries -,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments Pref Shares Subsidiaries -Adjustm,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Deemed investment in Group Companies,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Provision for Doubtful Investments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Fair Value of Investments IND AS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Long Term -Non Trade - Quoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments in Subsidiaries (IC)-Quoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Inv.-Cos-Related Parties (RP)-UnQuoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+PROVISION FOR DIMINUTION OF INVESTMENTS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Inv.In Cos-RelatedParties(RP)-Quoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Inv.-Cos-Related Parties (RP)-UnQuoted-,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments In Associates  (IC)-UnQuote-Adjus,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments Pref Shares Associates-UnQu,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investment in an associate and a joint venture,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments In JV (IC)-UnQuoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments In Subsidiaries(IC)-UnQuote,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Investments In Associates  (IC)-UnQuote,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_Invest-->BS_InvestGrp-->
+Non Current Trade Receivables,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_AR_3rd-->
+Inter Company - Customers- NC Adjustmen,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_AR_3rd-->
+Domestic-Muncipal-Non Current Adjustmen,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_AR_3rd-->
+Provision for Doubtful Receivable Non C,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_AR_3rd-->
+Non-Current-Prepayments-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_OthPrepay-->
+Prepaid Others-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->BS_LT_OthPrepay-->
+Share Application money pending Allotment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non Current-Share application pending allotment-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non Current-Retention money receivable-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non Current-Provision for retention Money-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Retention- Post closure (Adjustment),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Inter Company - Financial Asset-NC Adju,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non Current-Other receivable from related party-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Advance - Capital Expenditure,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Advance - Capital Expenditure-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Capital Advances-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Capital Advances-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Provision for capital advances-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Advance to Inter company opex-Inter.Co-,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Others assets-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Other assets -Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Advance to related party-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Service Tax ? Advance Paid a/c,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Property Tax paid under protest,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+VAT PrePaid,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Balance with statutory authority-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+VAT Receivable - TDS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Contract Assets Non-current,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non Current-Financial Guarntee Premium-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Prepaid Expenses Financial guantee prem,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Advances to supplier and service provider-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Provision for advances to supplier and service provider-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-  - Advances to supplier and service provider-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Other advances-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Advances other than capital advances-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Non-Current-Advance to employees-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Provision for Landfi,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Advance Capital Expenditure - Outside REEL group,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_AR-->
+Deferred Tax Assets,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_DTA-->
+Deferred tax asset  (Net),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_DTA-->
+Advance Income Tax,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Income Tax -TP- Advance Paid A/c,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Income Tax Receivable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+TDS Receivable - Service Income,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+TDS Receivable-Banks / FI,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+TDS Receivable-Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Tax Collected at Source (TCS) Receivabl,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Taxes & Duties Paid under Protest,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+TDS Receivable - 80 IA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+TDS Receivable - Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Current-Advance income tax,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Current-Tax paid under protest,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Non-Current-Advance income tax,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Non-Current-Tax paid under protest,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Advance Income Tax-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Minimum Alternate Tax (MAT) Credit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+MAT Credit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_TaxRecov-->
+Investments - Loans and advances -debt,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_OthInvest-->
+ICD - Loans -Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Non-Current-Loans to related parties,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Non-Current-Inter corporate deposits to related party,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Investments-Loans&advances-debt part-I-,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Non-Current-Loans to employees,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Non Current-Loans and advances to employees-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Non-Current-Loans Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_LoansRecGrp-->
+Investments others Unquoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non-Current-Current accounts Escrow,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non-Current-Deposit with original maturity of more than 12 months,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Long term bank deposit-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Term Deposit-Escrow,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Axis Bank-919020076679000-Main (ESCROW),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Allahabad Bank-50500436819-Main(Escrow),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Axis Bank-919020076679000-Deposit(ESCROW),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Allahabad Bank-50500436819-Deposit(Escrow),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Term Deposit-Escrow,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Term Deposit- DSRA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Telephone Deposits,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit - Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit - Others-Advances to Liabili,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Sundry Deposits,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit - Others-term deposits to Se,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Accommodation Deposits,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Electricity Deposits,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Retention- Post closure,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit with Creditors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit - Others-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Security Deposits-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Security Deposit - Others-NC-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Receivable from service concession arrangement-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non current-Receivable from service concession arrangement,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Financial Asset- Grant Receivable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Receivable from SCA -C- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Deposits - Others-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Deposits - Others-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Earnest money deposit-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Earnest money deposit-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non Current-Provision for EMD-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Tender/ EMD Deposit -Customer-NC-Adjust,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Provision for Earnest Money Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Non-Current-Earnest money deposit-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_NCurrAssets-->BS_LT_OthAsset-->BS_LT_FinAssets-->BS_LT_EquitySh-->
+Stock - Steel,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Cement,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - POL,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Building Material,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Piping,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Chemicals & Reagents,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Liners,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Other raw materials,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Spares,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Consumables,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Tools tackles,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Liners (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Recyclables,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Wood and Joineries,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Other raw materials-Adjustments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Recyclables-Adjustments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Liners-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+"Materials, tools and spares",BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Steel (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Cement (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Building mat (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Piping (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Chem&Reage (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Wood &Joinerie (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Other raw mat (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Spares (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Consumables (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Tools tackles (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Finished Goods-Reclass- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Recyclables- Reclass to FG-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Compost,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Trading goods,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Finishing Materials,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Compost,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Finishing Materials,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Semi Finished Goods,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Finished Goods,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock - Finished Goods-Reclass- Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Recyclables- Reclass to FG-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Trading goods,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Stock-Finishing mat (FI),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_Invent-->
+Domestic - FI Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Industrial,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Industrial-Adjustment-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Industrial-Re-class of Prov-Adjust,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Industrial-Re-class to Advance fro,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Muncipal,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Customer - Special Business Group,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+International Customer - Individuals,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Trade receivables,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Provision for doubtful debts,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Bio medical,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Customer - Recyclable Group,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - Muncipal-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Domestic - FI Customers - Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Provision for Doubtful Debtors (B/S),BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Trade receivables which have significant increase in credit risk,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Trade receivables ? credit impaired,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Receivable from other related parties,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Inter Company - Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Re-class of Prov-Adjustments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Inter Company - Customers-Adjustments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Inter company customers- Non SAP entities,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Inter company customers- Outside REEL group,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Work In Progress,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Work In Progress - Unbilled Revenue -Adjustme,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Current-Unbilled revenue-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_AR-->BS_ST_AR_3rd-->
+Inter Corporate Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Loans to related parties,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Inter Corporate Deposit-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Inter corporate deposits to related party,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Provision for ICD,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Loans to employees,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Loans and advances to employees-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Staff Advances - Expenses-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Loans to Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Non-Current-Forward Contract Receivable-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Security Deposits-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Receivable from service concession arrangement-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+EMD/ Tender deposits from Vendors-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Provision for Earnest Money Deposit -Adjustme,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Advance written off -Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Tender/ EMD Deposit - Customer,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Tender/ EMD Deposit - Customer-C-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Earnest money deposit-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Earnest money deposit-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Share application pending allotment-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Forward Contract Receivable-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Withheld Money - Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Retention Money -Customers,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Security Deposit - Customer (Receivable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Re-class of Prov-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Retention Money -Customers Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Retention money receivable-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Retention- Awareness Program,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Int. Accrued on Deposit with Banks/FI,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Interest accured-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Interest Accrued on Investments,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Interest Accrued on Loans to Companies,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Interest Accrued but not recived,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Receivable on account of sale of asset-Adjust,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Receivable on accout of sale of asset-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Other receivables-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Claims Receivables - Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Inter Corporate Deposits given- Non SAP Entities,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Inter Corporate Deposits given-Outside REEL Group,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OthInvest-->
+Current-Capital Advances-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Capital Advances-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Provision for capital advances-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Others assets -Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Preliminary Expenses,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Misc.Exp.(To The Extent Not Written off,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Advance to related party-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Central GST Interim Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+State GST Interim Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Integrated GST Interim Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Central GST Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+State GST Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Integrated GST Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Integrated GST Receviable Imports,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+GST Advance Paid,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+VAT Receivable - Input,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Works Contract Tax Receivable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+IGST Receivable-TDS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+CGST Receivable-TDS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+SGST Receivable-TDS,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Excise Duty Receivable Basic,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Excise Duty Receivable Education Cess,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Excise Duty Receivable Secondary Educat,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Service Tax-Basic-Receivable-Input Serv,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+ServiceTax-Cess-Receivable-InputService,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+ServiceTax-SHECess-Receivable-InputServ,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Krishi Kalyan Cess-Receivable-InputServ,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Service Tax ? Interim a/c - GTA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Krishi Kalyan Cess - Interim A/c - GTA,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Integrated GST Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Balance with Statutoty/Government Authority-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Sales Tax/Vat Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Union Teritory GST Inerim Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Union Teritory GST Receviable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Retention- Post closure-Financial Asset,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Provision for Retention Money,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Retention-Contract Asset-Current,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Contract Assets Current,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Unbilled-Contract assets,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Provision for Un-Billed Revenue,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+WIP Unbilled-Revenue,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Financial Guarntee Premium-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid Expenses FG premium-C-Adjustmen,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid Rent,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid Insurance,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid Others,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid BG Commission,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid CFO/CTO,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Prepayments-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Prepaid AMC,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Advances to supplier and service provider-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Advances to supplier and service provider-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Provision for advances to supplier and service provider-Doubtful,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Advances to Contractors / Subcontractor,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Advances to  Material & Other Vendors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Advances to  Material & Other Vendors-Adjustm,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Machinery Advance to Vendors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Machinery Advance to Vendors-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Material Advance to Vendors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Material Advance to Vendors-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Advances to Labour Contractors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Advances to Contractors/Subcontractors-,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Mobilisation Advance To Vendors,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Provision for Doubtful Advances - Supll,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Other advances-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Vehicle Loan,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Travel Advance,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Insurance Claims Receivable,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Reimbursement Exp/Assets,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Transaction Costs,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Festival Advances,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Current-Advance to employees-Good,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Staff Advances - Expenses,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Salary Advances to Staff,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Provision for Staff Advances-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+CGST Receivable ISD,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+SGST Receivable ISD,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Adv to supplier/service providers-Outside REEL Grp,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_ST_OthAsset-->BS_ST_FinAssets-->BS_ST_OtherAssets-->
+Cash in Hand-Consultancy Hyderabad,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - REEL SBG HO,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Current-Cash on hand,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash on Hand,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-IWM MWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-IWM TNWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-BMW TNWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-IWM WBWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-BMW WBWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-MSW WBWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - RRL PROJECT,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - HiMSW P&D,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - DMWSL - C&T,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-CMSW,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash on Hand - Ramky Finance & Investme,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - DMWSL - P&D,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-DMSW WTE,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-CUDDOLORE,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - SITE TNWML,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - Saagar MSW Solutions Pvt,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - Katni MSWM Pvt.Ltd.,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - CMSW NOIDA-Mechncl Sweep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Aditya Pur-IWM,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Aditya Pur-CETP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-TNWML-IWM-Madurai,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Dehradun,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-DRPL -Vizag,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-DRPL -Hyd,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Rewa-MSW Sol.,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-MWML-Cwmp2,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Vilholi Waste Mgt.Sys.Pvt.,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Rewa-MSW W2E,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Hyd-MSW Energy Sol.Pvt.Ltd,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash In Hand RESPL,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-DSCPL,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash and Bank Clearing Account,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - HO,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - HWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-CWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - KWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-PWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - OWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - UPWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - RWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-MPWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - BWMP,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-Shimoga,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - Belgaum,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-New town Kolkota,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - Koyambedu,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-E waste,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand - Reel Bhubaneswar,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Cash in Hand-REEL-ICW-VISAKHAPATNAM,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Term Deposit - Bank Gaurantee -NC-Adjus,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Term Deposit - Fixed Deposits-Re-class of dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_CashOnHand-->
+Term Deposit - Bank Gaurantee-C-Adjustm,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Current-Deposit with original maturity of more than 3 months but less than 12 months,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Current-Deposit with original maturity of less than 3 months,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit-Less than 3months maturity,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit-Fixed Deposits-C-Adjustmen,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200061205 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 043010200022710 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 559010200004572 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020007010682 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020019704339 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-910020034523209-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020012438454-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020012896290 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020027711304-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020027711304 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020058628017-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020058628017 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 914020005042748 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK 912020025767119 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd 912020017520937 - One,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 3253050000313 - Depoist,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India -31473716967- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Punjab & Sind Bank -03011100037936-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INGVYSYA-700011036443-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+YES Bank 000681300001253 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+YES Bank 000681300002334 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Canara Bank - 2799201000255 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 914020005042748 Depos,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 320405000299�- Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Current- Balance with bank-On current account,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank  - 84813100000168 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 913060044826115 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LTD 000851000233 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit - Bank Gaurantee,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit - Other,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ANDHRA BANK  - 84811100000636 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ANDHRA BANK  - 84811100000645 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ANDHRA BANK  - 84811100000654 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank - 008411100001608 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank -008411100001060- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank-050611100001893-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank-050611100001866-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank 008411100001592 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank 034911100002704 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank -34911100002810 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank- 34911100002810-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Andhra Bank '078411100003262 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038611304 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038611304 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038791730 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038791730 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200016986 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200016986 - Deposi,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200016986 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200024426 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200024435 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 261010200003278 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 261010200003278 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 261010200009201 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 261010200009218 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004633 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004633 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004640 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004640 - Deposi,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004657 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004657 - Deposi,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004664 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 8010200032993 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 8010200032993 - Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 8010200034584 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 8010200045012 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020021892032 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200047445 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200047445 Depos,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200047445 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200087106 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200087106 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 910020045517275 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 910020045517275 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200084057 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200084057 Depos,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 912020027440203 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 912020027440203 Depos,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 912020027440203 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 008010200081148 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 261010200007603 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK 008010101550991 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK 911020067570684 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK 911020067570684 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank Ltd 914020020545882 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank Ltd 914020020545882 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank Ltd 914020028534118 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 912020038012950-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 915020039485796-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020043902454-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020043902454-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020044036936-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020043902438-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020052603344-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020049664536-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 916020005176104-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.916020019817453-Main (Esc,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 915020044337080 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 916020030541861 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.915020045578958-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-913020033588792 -Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.- 916020022488745-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.- 916020022488745-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd - 917020021603397-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd - 917020024974865-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020049798125-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020043847397-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020048887817-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020078799544-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020078799544-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020082928565-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd -915020052504412-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd -911020001122751-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd -911020001151380-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank 008010200068891 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank 008010200068891 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank 911020021893611 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 919020014920283- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI Bank-016705008905-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-914020005086201-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-'911020055865930-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-140010200024842-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-140010200024727-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+HDFC Bank (Escrow) 50100229488240-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED - 000805013995 - Mai,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 000805014501 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 190005000066 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 000805014500 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 000805014519 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LTD 033405003430 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 000805014496 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 000805014517 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 000805002434 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Icici Bank Ltd- 108705001858- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Icici Bank Ltd- 108705001858- Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 325305000374�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 325305000367�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 000805017048�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 000805017049�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK -  000805017053 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK-004005017743- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36225550146,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-36625373411-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37619378932 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621404960 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405136 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405238 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405363 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405602 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405759 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621417629 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621434214 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621434349 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621434521 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621434702 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37559744009 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37559751538 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-38201505151 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-38123414773 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank 38174448248 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank 38174447618  Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India 38186759735 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37619378932 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200000521987 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200000521987 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200999296457 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200999296457 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200999708868 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200999708868 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 131111031105 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 123911031060 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 123911031060 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 131111031175 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 131111031175  Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Canara Bank - 2799201000306 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Canara Bank - 2799201000306 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Canara Bank Escrow-8444201000103 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IOB Bank-42902000003004-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Indian Bank-6346303328-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Indian Bank-6346303328-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Indian Bank-6346303328-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IOB Bank-222002000001072-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IOB Bank-222002000001072-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Corp Bank-520141001664576-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020021892032-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd - 917020021603397-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-917020043847397-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-36483503086-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LTD 000851000233 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200024426 - Deposi,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 16010200024435 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004657 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 36010200004664 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis bank Ltd 914020028534118 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 916020005176104-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 8010200034584 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 919020014920283- Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020027709880 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 911020029756068 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INGVYSYA - 700011036478 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED - 000805014554- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 190005000066 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 000905006369 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 000805014537 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 000805014496 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 000805002434 - Depoist,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUS IND BANK 200999708905 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 131111031105 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+DENA BANK 123911031060 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Current-Balance with bank-On Cash credit account,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Current-Cheques on hand,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Yes Bank-00068130000,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Yes Bank-00068130000,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-008010200027025,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-008010200046570,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-008010200061205,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-008010200072122,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-008010200072122,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-041010200011769,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-041010200011893,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-041010200011893,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-043010200022710,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-043010200022710,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-075010200017204,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-075010200017204,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-097010200004985,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-097010200004985,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-097010200005203,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-133010200008433,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-138010200009270,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-138010200009270,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-381010200002790,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-559010200002660,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-559010200004572,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020007010682,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020015388890,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020015388890,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020019704339,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020034114575,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020034523209,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-910020046303002,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-911020012438454,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-911020012896290,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-911020027709880,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 1070933 De,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 1070933 Pa,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-912020010337642,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK 343491 P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS 25296106 Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS 25296106 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS 5767119 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS 5767119 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-916020015034126,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-916020015034126,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-91602004-D,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-91602004-P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis-9190200064980-P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 5000236 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 5000236 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 000413 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 000413 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 000365 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI 000365 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-325305000313-P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-320405000298�D,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-320405000298�P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-320405000299�P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-325305000329 D,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI-325305000329 P,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IDBI Bank-0431030000,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IDBI-038710300000082,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 20544 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 20544 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 556093 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 556093 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192768099-Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192767823-Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192767584-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192767313-Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192767313-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192766885-Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192766647-Dep,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBI 36192766647-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+PSB-037936-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+PSB-037936-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Bank of Baroda -0479,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200069483 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020047555414-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020067139849-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020084500987-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37559751538 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020084500987- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020084587913- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020084500987-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank-919020084587913-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038611304 - Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 910020038791730 - Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank - 911020034469287 - Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37621405238 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Icici Bank Ltd- 108705001858- Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37559744009 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-37559751538 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020034114575 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IDBI Bank - 043103000001496 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+STATE BANK OF INDIA - 33794520544 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+STATE BANK OF INDIA - 33794556093 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192768099,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192767823,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192767584,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192767313,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192766885,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India(Escrow)-36192766647,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit - Fixed Deposits,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit - EMD,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Term Deposit - Fixed Deposits-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Yes Bank - 000681300000281 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+STATE BANK OF INDIA CC-30902941757-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+STATE BANK OF INDIA CC-30902941757-Depo,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+STATE BANK OF INDIA CC-30902941757-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBH-52116678399-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+SBH-52116678399-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200027025 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-008010200027025-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200046570 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200046570 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200056018 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-008010200056018-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200056018 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200061205 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200064691 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200069483 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200072122 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200087489 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 041010200011769 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 041010200011893 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 075010200017204 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 097010200004985 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 097010200005203 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 133010200008433 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-133010200008433-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 138010200009270 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 381010200002790 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 381010200002790 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 559010200002660 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-559010200002660-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 559010200004572 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020007010682 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020015388890 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020019704339 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020034523209 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-910020041065873-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 910020046303002 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-910020046303002-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020000224449-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020000224449 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020012438454 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020012896290 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020027709880 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020027711304 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020047555414-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 911020058628017 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-911020061070933-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 912020010337642 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK Ltd 909020044343491 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 911020029756068 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 911020029756068 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 913020025296106 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LIMITED 914020005042748 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd 915020012003519 - Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd 915020012003519 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd. 916020015034126-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd-916020045989025 -Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+HDFC Bank - 05122780000012 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED - 189705000107 - Mai,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED - 202305000009 - Mai,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 130405000236 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 000805014270 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 153205000413 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 109405000365 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK 017605004533 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 325305000096 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 3253050000313 - Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 320405000298�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 320405000299�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK - 325305000329�- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+KOTAK MAHINDRA BANK-05522560000620-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+OBC-10931011001113-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India - 30901816658 - Mai,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India -32375397660- Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUSIND-200999079043-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Druk PNB Bank - 110210007696 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Bank of Baroda  29910200000479 Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200064691 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-008010200087489-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 008010200087489 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD-919020006498004-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 919020008069176 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 919020008069176 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 919020007384847 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank 919020007384847 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.919020007057370-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Axis Bank Ltd.919020007057370-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+HDFC Bank - 05122780000012 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 000805014270 Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+ICICI BANK LIMITED 000805014270 Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+IDBI Bank-0387103000000824-Main,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+KOTAK MAHINDRA BANK-05522560000620-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-30901816658-Deposit,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India - 30901816658 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+State Bank of India-32375397660-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+INDUSIND-200999079043-Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Margin Money Deposit - BG,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+AXIS BANK LTD - 097010200005203 - Pay,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthDep-->
+Investment in Liquid Funds Quoted,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_CurrAssets-->BS_Cash-->BS_ST_OthLiqRes-->
+Non-Current-Assets held for Sale,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_AHFS-->BS_ST_OthLiqRes-->
+Assets Held for Sale -Adjustment,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_AHFS-->BS_ST_OthLiqRes-->
+Assets held for Sale,BS_GROUP-->BS_NetAssets-->BS_Assets-->BS_AHFS-->BS_ST_OthLiqRes-->
+Axis Bank Ltd-008010300013563-Main,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Axis Bank Ltd-008010300013563-Deposit,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Axis Bank Ltd-008010300013563-Pay,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+AXIS BANK LTD - 910020041065873 - Pay,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Secured loans from banks - Cash credit,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Secured loans from banks- Working capital loan,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Secured loans from banks- Buyers Credit,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Optionally Convertible Debentures?Curre,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Current Optionally convertible debentures ,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Current Compulsory convertible debentures ,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Current Liability component of compound financial instrument,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Secured loans from banks - Foreign currency loan,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Secured loans from banks- Others,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Un Secured STL From Others In INR,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Loans From related party- from group company - unsecured,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Loans From related party- from group company - unsecured,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Reimbursement Exp/Liabilities-Adjustmen,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Reimbursement Exp/Assets-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_DebtOth-->BS_ST_LoansPay3rd-->
+Sundry Creditors-Domestic (Capital),BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+GR/IR Clearing ac for capital goods,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors-Domestic (Capital)-Adjustmne,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Current-Capital Creditors,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Cr -Domestic(Capital)-Inter Co.-,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Audit fee payable,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors-Domestic,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors-Domestic -reclass from Provi,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors-imports,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors - Service,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors - Service-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors - FI,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors - FI-Adjustmnet,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Sundry Creditors - Employee-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Provision for Expenses,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Expenses payable-Adjustment,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Insurance payable-adjustment,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Reimbursement Exp/Liabilities,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+GR/IR Clearing Account - Supplies,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+SR/IR Clearing Account - Services,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+GR/IR Clearing Account - Supplies-Adjus,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Custom Duty Clearing Account,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Freight Clearing  Account,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+TCS Clearing Account,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Balance Clearing a/c - Manual Vendor/Cu,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->
+Zero Balance Clearing A/c(Balance Sheet,BS_GROUP-->BS_NetAssets-->BS_Liabilities-->BS_CurrLiab-->BS_ST_AP-->BS_ST_AP_3rd-->

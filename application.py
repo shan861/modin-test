@@ -1,5 +1,6 @@
 import json
 from flask import Flask,request,jsonify
+import modin.pandas as pd
 
 import os 
 
@@ -12,14 +13,11 @@ def hello():
 
 @app.route('/test')
 def ask():
-    q=request.args['q']
-    
-    import modin.pandas as pd
-
+    q=request.args['q']  
     df = pd.read_csv("GL_Data.csv")
    
     print(len(df))
-    //output = json.dumps(result, default=set_default)
+    #output = json.dumps(result, default=set_default)
     return str(len(df))
 
 

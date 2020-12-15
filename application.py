@@ -47,7 +47,7 @@ def normalpd():
     return str(count)
 
 @app.route('/test')
-def normalpd():
+def test():
     #q=request.args['q'] 
 
     ### Read in the data with Pandas   

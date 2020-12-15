@@ -98,10 +98,60 @@ def test_normal():
 
 
 @app.route('/largefile')
-def test_modin():
+def largefile():
      df = pd.read_csv("GL_Data.csv")  
      df = mpd.concat([df] * 15)
      df.to_csv('big_csv.csv')
+
+    count=len(df)
+    return str(count)
+
+
+ @app.route('/large_modin')
+def large_modin():
+    #q=request.args['q'] 
+
+   
+
+    ### Read in the data with Modin    
+
+    s = time.time()
+    df = pd.read_csv("big_csv.csv")
+    e = time.time()
+    print("Modin Loading Time = {}".format(e-s))    
+
+
+    df = pd.read_csv("big_csv.csv")
+    s = time.time()
+    df = pd.concat([df for _ in range(5)])
+    e = time.time()
+    print("Modin Concat Time = {}".format(e-s))
+
+
+
+    count=len(df)
+    return str(count)
+
+@app.route('/large_normal')
+def large_normal():
+    #q=request.args['q'] 
+
+    ### Read in the data with Pandas   
+
+    s = time.time()
+    df = pdn.read_csv("big_csv.csv")
+    e = time.time()
+    print("Pandas Loading Time = {}".format(e-s))
+
+   
+
+    df = pdn.read_csv("big_csv.csv")
+    s = time.time()
+    df = pdn.concat([df for _ in range(5)])
+    e = time.time()
+    print("Pandas Concat Time = {}".format(e-s))  
+
+
 
     count=len(df)
     return str(count)

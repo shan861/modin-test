@@ -97,6 +97,16 @@ def test_normal():
     return str(count)
 
 
+@app.route('/largefile')
+def test_modin():
+     df = pd.read_csv("GL_Data.csv")  
+     df = mpd.concat([df] * 15)
+     df.to_csv('big_csv.csv')
+
+    count=len(df)
+    return str(count)
+
+
 if __name__=='__main__':
     app.run() 
 

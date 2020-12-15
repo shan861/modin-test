@@ -4,6 +4,7 @@ import modin.pandas as pd
 import pandas as pdn
 
 import timeit
+import time
 
 import os 
 
